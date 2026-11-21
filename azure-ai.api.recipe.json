@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "azure-ai.api",
+  "providerType": "api",
+  "id": "api_azure_ai",
+  "title": "Microsoft Azure AI",
+  "protocol": "openai",
+  "baseUrl": "",
+  "setupInstructions": "Enter your resource URL (https://<resource-name>.openai.azure.com/openai/v1), resource key, and deployment name as the model ID.",
+  "endpointSource": "user"
+}
